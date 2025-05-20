@@ -16,7 +16,7 @@ This project involves analyzing Amazon product reviews to classify the sentiment
 ---
 
 ## Project Overview
-The goal of this project is to process a dataset of Amazon reviews, clean the text, and train deep learning models to predict sentiment. The project also demonstrates data preprocessing,EDA & Visualization,and model evaluation using metrics like accuracy and classification reports.
+The goal of this project is to process a dataset of Amazon reviews, clean the text, and train nlp and deep learning models to predict sentiment. The project also demonstrates data preprocessing ,and model evaluation using metrics like accuracy and classification reports.
 
 ---
 
@@ -29,10 +29,9 @@ The dataset used is sourced from Kaggle:
 
 ## Workflow
 1. **Data Preparation**: Importing Data from Kaggle and viewing it.
-2. **EDA & Visualization**: Data distribution and insights using Matplotlib and Seaborn.
-3. **Data Cleaning & Preprocessing**: Removing stopwords, punctuation, and applying lemmatization.
-4. **Building Model**:Training deep learning model to classify sentiment using LSTM. 
-5. **Interface**: Using Streamlit to build GUI.
+2. **Data Cleaning & Preprocessing**: Removing stopwords, punctuation, and applying lemmatization.
+3. **Building Models**:Training models to classify sentiment using LSTM  ,GRU ,and CNN. 
+4. **Interface**: Using Streamlit to build GUI.
 
 ---
 
