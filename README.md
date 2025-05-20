@@ -30,8 +30,8 @@ The dataset used is sourced from Kaggle:
 ## Workflow
 1. **Data Preparation**: Importing Data from Kaggle and viewing it.
 2. **Data Cleaning & Preprocessing**: Removing stopwords, punctuation, and applying lemmatization.
-3. **Building Models**:Training models to classify sentiment using LSTM  ,GRU ,and CNN. 
-4. **Interface**: Using Streamlit to build GUI.
+3. **Building Models**:Training models to classify sentiment using LSTM  ,GRU ,and CNN and choose the best model from them.
+5. **Interface**: Using Streamlit to build GUI.
 
 ---
 
